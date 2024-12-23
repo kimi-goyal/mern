@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "name": "John Doe",
+      "price": 0,
+      "category": "free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 2,
+      "title": "Mastering React",
+      "name": "Jane Smith",
+      "price": 0,
+      "category": "free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 3,
+      "title": "Node.js Fundamentals",
+      "name": "Tom Hanks",
+      "price": 0,
+      "category": "free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 4,
+      "title": "Learn HTML & CSS",
+      "name": "Emily Davis",
+      "price": 0,
+      "category": "free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 5,
+      "title": "Full-Stack Development",
+      "name": "Michael Brown",
+      "price": 0,
+      "category": "web",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 6,
+      "title": "Python for Beginners",
+      "name": "Sarah White",
+      "price": 0,
+      "category": "free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 7,
+      "title": "Database Design",
+      "name": "David Johnson",
+      "price": 0,
+      "category": "database",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 8,
+      "title": "Understanding APIs",
+      "name": "Olivia Wilson",
+      "price": 0,
+      "category": "free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 9,
+      "title": "Frontend Development Guide",
+      "name": "James Taylor",
+      "price": 0,
+      "category": "frontend",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    }
+  ]
+  
